@@ -1,0 +1,1 @@
+const List<String> msgs = ['Hello, world!', 'Welcome', 'Test'];
